@@ -1,0 +1,94 @@
+# Copyright (C) 2019 meks-audio-player
+# This file is distributed under the same license as the meks-audio-player package.
+msgid ""
+msgstr ""
+"Project-Id-Version: meks-audio-player\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/class-audio.php:90
+msgid "Settings"
+msgstr ""
+
+#: inc/class-audio.php:102, inc/class-audio.php:103
+msgid "Meks Audio Player"
+msgstr ""
+
+#: inc/class-audio.php:118
+msgid "Colors"
+msgstr ""
+
+#: inc/class-audio.php:128
+msgid "Controls"
+msgstr ""
+
+#: inc/class-audio.php:135
+msgid "Default volume"
+msgstr ""
+
+#: inc/class-audio.php:142
+msgid "Post Type"
+msgstr ""
+
+#: inc/class-audio.php:407
+msgid "Skip back"
+msgstr ""
+
+#: inc/class-audio.php:408
+msgid "Play (pause)"
+msgstr ""
+
+#: inc/class-audio.php:409
+msgid "Jump forward"
+msgstr ""
+
+#: inc/class-audio.php:410
+msgid "Progress bar"
+msgstr ""
+
+#: inc/class-audio.php:411
+msgid "Current time"
+msgstr ""
+
+#: inc/class-audio.php:412
+msgid "Duration"
+msgstr ""
+
+#: inc/class-audio.php:413
+msgid "Volume"
+msgstr ""
+
+#: inc/class-audio.php:414
+msgid "Playback speed"
+msgstr ""
+
+#: inc/class-audio.php:431
+msgid "Select which player controls you would like to display"
+msgstr ""
+
+#: inc/class-audio.php:449
+msgid "Specify default player volume (0-100%)"
+msgstr ""
+
+#: inc/class-audio.php:461
+msgid "Background"
+msgstr ""
+
+#: inc/class-audio.php:467
+msgid "Foreground"
+msgstr ""
+
+#: inc/class-audio.php:472
+msgid "Select your prefered colors"
+msgstr ""
+
+#: inc/class-audio.php:498
+msgid "Select post types which you are using for audio"
+msgstr ""

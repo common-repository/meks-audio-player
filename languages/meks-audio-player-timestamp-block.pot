@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/timestamp/index.js:29
+msgid ""
+"Navigate audio with timestamps. Set the timestamp and the equivalent "
+"title/name."
+msgstr ""
+
+#: src/timestamp/index.js:33
+msgid "Audio player timestamps"
+msgstr ""
+
+#: src/timestamp/index.js:34
+msgid "timestamps"
+msgstr ""
+
+#: src/timestamp/index.js:35
+msgid "meks"
+msgstr ""
+
+#: src/timestamp/index.js:36
+msgid "meks audio"
+msgstr ""
+
+#: src/timestamp/index.js:84
+msgid "Set timestamp time and title"
+msgstr ""
+
+#: src/timestamp/index.js:86
+msgid "Set time"
+msgstr ""
+
+#: src/timestamp/index.js:88
+msgid "minutes:seconds (eg. 01:20, 120:00)"
+msgstr ""
+
+#: src/timestamp/index.js:92
+msgid "Set title"
+msgstr ""
